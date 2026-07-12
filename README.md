@@ -1,4 +1,4 @@
 # ramsharma-demo
 this is my first project in github
 <br>
-author - ram sharma
+author - ram sharma (my profile photo)
